@@ -7,6 +7,6 @@ An overview of all projects I created.
 
 ## Smart Health CHatbot Chronic Kidney Disease 
 
-## Smart Health CHatbot Diabetic Nephropathy
+## [Smart Health CHatbot Diabetic Nephropathy](https://github.com/ElodynPixel/SmartHealthChatBot-Diabetic_Nephropathy)
 
-## [Smart Health CHatbot Epilepsy](https://github.com/ElodynPixel/SmartHealthChatBot-Epilepsy)https://github.com/ElodynPixel/SmartHealthChatBot-Epilepsy
+## [Smart Health CHatbot Epilepsy](https://github.com/ElodynPixel/SmartHealthChatBot-Epilepsy)https://github.com/ElodynPixel/SmartHealthChatBot-Epilepsy)
