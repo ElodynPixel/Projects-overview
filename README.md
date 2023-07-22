@@ -5,7 +5,7 @@ An overview of all projects I created.
 
 ## [Nucleotides in DNA sequence](https://github.com/ElodynPixel/Nucleotides-in-DNA-sequences)
 
-## Smart Health CHatbot Chronic Kidney Disease 
+## [Smart Health CHatbot Chronic Kidney Disease ](https://github.com/ElodynPixel/SmartHealthChatBot-Chronic_Kidney_Disease)
 
 ## [Smart Health CHatbot Diabetic Nephropathy](https://github.com/ElodynPixel/SmartHealthChatBot-Diabetic_Nephropathy)
 
