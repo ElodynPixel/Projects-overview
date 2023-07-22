@@ -13,3 +13,4 @@ An overview of all projects I created.
 
 ## Calculating BMI
 
+## Simple Neural Network
