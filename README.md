@@ -13,4 +13,4 @@ An overview of all projects I created.
 
 ## [Calculating BMI](https://github.com/ElodynPixel/Calculating-BMI)
 
-## Simple Neural Network
+## [Simple Neural Network](https://github.com/ElodynPixel/Simple-Neural-Network)https://github.com/ElodynPixel/Simple-Neural-Network
