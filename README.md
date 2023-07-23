@@ -11,6 +11,6 @@ An overview of all projects I created.
 
 ## [Smart Health Chatbot Epilepsy](https://github.com/ElodynPixel/SmartHealthChatBot-Epilepsy)
 
-## [Calculating BMI](https://github.com/ElodynPixel/Calculating-BMI)https://github.com/ElodynPixel/Calculating-BMI
+## [Calculating BMI](https://github.com/ElodynPixel/Calculating-BMI)
 
 ## Simple Neural Network
