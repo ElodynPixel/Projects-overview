@@ -18,3 +18,5 @@ An overview of all projects I created.
 ## [Breast Cancer Detection AI](https://github.com/ElodynPixel/Breast_Cancer_Detection-AI)
 
 ## [Over the moon](https://github.com/ElodynPixel/over-the-moon)
+
+## Looker Studio Project for Biotech
