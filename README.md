@@ -15,4 +15,5 @@ An overview of all projects I created.
 
 ## [Simple Neural Network](https://github.com/ElodynPixel/Simple-Neural-Network)
 
-## Breast Cancer Detection AI
+## [Breast Cancer Detection AI](https://github.com/ElodynPixel/Breast_Cancer_Detection-AI)
+
