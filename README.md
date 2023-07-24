@@ -19,6 +19,6 @@ An overview of all projects I created.
 
 ## [Over the moon](https://github.com/ElodynPixel/over-the-moon)
 
-## Looker Studio Project for Biotech
+## [Looker Studio Project for Biotech](https://github.com/ElodynPixel/Looker-Studio-project-for-biotech)
 
 ## Sleep dashboard (Google sheets)
