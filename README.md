@@ -21,4 +21,4 @@ An overview of all projects I created.
 
 ## [Looker Studio Project for Biotech](https://github.com/ElodynPixel/Looker-Studio-project-for-biotech)
 
-## [Sleep dashboard (Google sheets)](https://github.com/ElodynPixel/Sleep-dashboard-Google-sheets-)https://github.com/ElodynPixel/Sleep-dashboard-Google-sheets-
+## [Sleep dashboard (Google sheets)](https://github.com/ElodynPixel/Sleep-dashboard-Google-sheets-)https:/
