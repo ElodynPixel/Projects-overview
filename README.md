@@ -13,7 +13,7 @@ Using python the number of nucleotides can be counted and the base pair ratio ca
 
 
 ## [Smart Health CHatbot Diabetic Nephropathy](https://github.com/ElodynPixel/SmartHealthChatBot-Diabetic_Nephropathy)
-
+This chatbot can give you information about DiabeticNeph: ~ Overview ~ Symptoms ~ When to see a doctor? ~ Causes ~ Risk factors and may more!
 
 ## [Smart Health Chatbot Epilepsy](https://github.com/ElodynPixel/SmartHealthChatBot-Epilepsy)
 
