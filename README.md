@@ -26,6 +26,7 @@ This chatbot can give you information about Epilepsy: ~ Overview ~ Symptoms ~ Wh
 Python is used to calculate a persons BMI (Body Mass Index) and Categorizing the result according to severely overweight, overweight, healthy, underweight, and severely underweight.
 
 ## [Simple Neural Network](https://github.com/ElodynPixel/Simple-Neural-Network)
+
 This simple neural network is created to predict one outcome from three different input values by applying mathematical equations and basing it on the naturally occuring physiological model of the inputs and outputs through a neuron by way of synapses.
 
 ## [Breast Cancer Detection AI](https://github.com/ElodynPixel/Breast_Cancer_Detection-AI)
