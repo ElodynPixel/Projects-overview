@@ -22,6 +22,7 @@ This chatbot can give you information about DiabeticNeph: ~ Overview ~ Symptoms 
 This chatbot can give you information about Epilepsy: ~ Overview ~ Symptoms ~ What is Focal seizures? ~ What is Generalized seizures? ~ When to see a doctor? ~ Causes ~ Risk factors and may more!
 
 ## [Calculating BMI](https://github.com/ElodynPixel/Calculating-BMI)
+
 Python is used to calculate a persons BMI (Body Mass Index) and Categorizing the result according to severely overweight, overweight, healthy, underweight, and severely underweight.
 
 ## [Simple Neural Network](https://github.com/ElodynPixel/Simple-Neural-Network)
