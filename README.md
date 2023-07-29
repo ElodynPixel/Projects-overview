@@ -37,7 +37,7 @@ Similar to K Nearest Neighbors, SVMs are commonly used for classification tasks.
 
 ## [Over the moon](https://github.com/ElodynPixel/over-the-moon)
 
-Plan a moon mission using python and pandas.
+Plan a moon mission using python and pandas. Classify moon rocks to bring back during the next mission.
 
 ## [Looker Studio Project for Biotech](https://github.com/ElodynPixel/Looker-Studio-project-for-biotech)
 ## [Sleep dashboard (Google sheets)](https://github.com/ElodynPixel/Sleep-dashboard-Google-sheets-) 
