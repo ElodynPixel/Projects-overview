@@ -35,8 +35,7 @@ For this project I used a breast cancer data set. It consists of many features d
 
 Similar to K Nearest Neighbors, SVMs are commonly used for classification tasks. They're great for high-dimensional data, and they let us classify data that doesn't have a linear relationship.
 
-
-
 ## [Over the moon](https://github.com/ElodynPixel/over-the-moon)
+
 ## [Looker Studio Project for Biotech](https://github.com/ElodynPixel/Looker-Studio-project-for-biotech)
 ## [Sleep dashboard (Google sheets)](https://github.com/ElodynPixel/Sleep-dashboard-Google-sheets-) 
