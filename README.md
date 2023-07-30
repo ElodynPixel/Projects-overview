@@ -44,5 +44,4 @@ Plan a moon mission using python and pandas. Classify moon rocks to bring back d
 I used world population data to visualize population trend in Countries and continents over the years. In this project I also learned how to join different table and the differnt configuration options for joining a table. In this example a Left outer join was used.
 
 
-
 ## [Sleep dashboard (Google sheets)](https://github.com/ElodynPixel/Sleep-dashboard-Google-sheets-) 
