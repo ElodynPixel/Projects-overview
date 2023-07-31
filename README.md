@@ -48,4 +48,4 @@ I used world population data to visualize population trend in Countries and cont
 
 Building a dashboard on google sheets
 I downloaded and imported Sleep efficiency data csv file and cleaned the data after removing empty cells and other formatting. 
-
+The data was then sorted (for example age so it can appear in chronological order when used in charts). Charts created was to showcase the association between age and duration (bar chart) and a pie chart showcasing the proportion of yes and no answer to smoking status.
