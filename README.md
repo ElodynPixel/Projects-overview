@@ -37,7 +37,8 @@ Similar to K Nearest Neighbors, SVMs are commonly used for classification tasks.
 
 ## [Over the moon](https://github.com/ElodynPixel/over-the-moon)
 
- 
+Moon Rock Classification using Python and Pandas (Jupyter Notebook)
+In this project, I undertook a fascinating classification task involving moon rock samples. Leveraging Python and Pandas within a Jupyter Notebook environment, I applied machine learning algorithms to classify different types of moon rocks based on their distinct characteristics. The project encompassed data preprocessing, feature engineering, and model evaluation, resulting in an accurate classification system that could aid in future lunar exploration missions.
 
 ## [Looker Studio Project for Biotech](https://github.com/ElodynPixel/Looker-Studio-project-for-biotech)
 
