@@ -11,6 +11,8 @@ Using python the number of nucleotides can be counted and the base pair ratio ca
 
 ## [Smart Health CHatbot Chronic Kidney Disease ](https://github.com/ElodynPixel/SmartHealthChatBot-Chronic_Kidney_Disease)
 
+Chronic Kidney Disease Chat-Bot
+In this engaging project, I designed a specialized Chronic Kidney Disease Health Chatbot. Through the use of Python in a Jupyter Notebook and leveraging Numpy, I developed an intelligent conversational interface. Users could now access personalized information and support, enabling them to make informed decisions about their kidney health.
 
 
 ## [Smart Health CHatbot Diabetic Nephropathy](https://github.com/ElodynPixel/SmartHealthChatBot-Diabetic_Nephropathy)
