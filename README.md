@@ -19,7 +19,7 @@ This chatbot can give you information about DiabeticNeph: ~ Overview ~ Symptoms 
 
 ## [Smart Health Chatbot Epilepsy](https://github.com/ElodynPixel/SmartHealthChatBot-Epilepsy)
 
-This chatbot can give you information about Epilepsy: ~ Overview ~ Symptoms ~ What is Focal seizures? ~ What is Generalized seizures? ~ When to see a doctor? ~ Causes ~ Risk factors and may more!
+  
 
 ## [Calculating BMI](https://github.com/ElodynPixel/Calculating-BMI)
 
@@ -37,10 +37,11 @@ Similar to K Nearest Neighbors, SVMs are commonly used for classification tasks.
 
 ## [Over the moon](https://github.com/ElodynPixel/over-the-moon)
 
-Project: Moon Rock Analysis using Python, Pandas, and Numpy (Jupyter Notebook)
+Moon Rock Analysis using Python, Pandas, and Numpy (Jupyter Notebook)
 
 In this project, I conducted a comprehensive analysis of moon rock samples from the Apollo missions, utilizing Python, Pandas, and Numpy in a Jupyter Notebook. I gathered data on spacecraft and rockets used in past Apollo missions and upcoming Artemis missions, creating informative DataFrames to uncover valuable insights. 
-Additionally, I developed a prediction for estimating the weight of sample returns from the forthcoming Artemis missions and provided recommendations to guide lunar exploration efforts. This project highlighted my expertise in data analysis and decision-making, showcasing my proficiency in utilizing Python and its libraries for scientific research.
+Additionally, I developed a prediction for estimating the weight of sample returns from the forthcoming Artemis missions and provided recommendations to guide lunar exploration efforts. 
+This project highlighted my expertise in data analysis and decision-making, showcasing my proficiency in utilizing Python and its libraries for scientific research.
 
 ## [Looker Studio Project for Biotech](https://github.com/ElodynPixel/Looker-Studio-project-for-biotech)
 
