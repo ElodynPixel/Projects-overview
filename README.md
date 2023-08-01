@@ -15,11 +15,13 @@ This chatbot can give you information about Chronic Kidney Disease: ~ Overview ~
 
 ## [Smart Health CHatbot Diabetic Nephropathy](https://github.com/ElodynPixel/SmartHealthChatBot-Diabetic_Nephropathy)
 
+Diabetic Nephropathy Chat-Bot
+With a focus on diabetic kidney disease, I embarked on crafting a Diabetic Nephropathy Health Chatbot. Utilizing Python within a Jupyter Notebook and making the most of Numpy, I developed an interactive chatbot interface. This allowed users to receive tailored recommendations and insights, empowering them to manage their condition more effectively.
 
 
 ## [Smart Health Chatbot Epilepsy](https://github.com/ElodynPixel/SmartHealthChatBot-Epilepsy)
 
-Epilepsy chat-bot
+Epilepsy Chat-Bot
 In this fascinating project, I delved into designing an Epilepsy Health Chatbot with the help of Python in a Jupyter Notebook. By integrating the Natural Language Toolkit (NLTK), I created a user-friendly conversational interface that offered personalized insights and support to individuals dealing with epilepsy.
 
 
