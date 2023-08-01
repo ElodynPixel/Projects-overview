@@ -11,7 +11,7 @@ Using python the number of nucleotides can be counted and the base pair ratio ca
 
 ## [Smart Health CHatbot Chronic Kidney Disease ](https://github.com/ElodynPixel/SmartHealthChatBot-Chronic_Kidney_Disease)
 
-This chatbot can give you information about Chronic Kidney Disease: ~ Overview ~ Symptoms ~ What is Chronic kidney disease? ~ What is the treatment for chronic kidney disease? ~ When to see a doctor? ~ Causes ~ Risk factors and many more!
+
 
 ## [Smart Health CHatbot Diabetic Nephropathy](https://github.com/ElodynPixel/SmartHealthChatBot-Diabetic_Nephropathy)
 
