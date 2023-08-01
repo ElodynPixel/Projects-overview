@@ -15,7 +15,7 @@ This chatbot can give you information about Chronic Kidney Disease: ~ Overview ~
 
 ## [Smart Health CHatbot Diabetic Nephropathy](https://github.com/ElodynPixel/SmartHealthChatBot-Diabetic_Nephropathy)
 
-This chatbot can give you information about DiabeticNeph: ~ Overview ~ Symptoms ~ When to see a doctor? ~ Causes ~ Risk factors and may more!
+
 
 ## [Smart Health Chatbot Epilepsy](https://github.com/ElodynPixel/SmartHealthChatBot-Epilepsy)
 
