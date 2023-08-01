@@ -19,7 +19,9 @@ This chatbot can give you information about DiabeticNeph: ~ Overview ~ Symptoms 
 
 ## [Smart Health Chatbot Epilepsy](https://github.com/ElodynPixel/SmartHealthChatBot-Epilepsy)
 
-  
+Epilepsy chat-bot
+In this fascinating project, I delved into designing an Epilepsy Health Chatbot with the help of Python in a Jupyter Notebook. By integrating the Natural Language Toolkit (NLTK), I created a user-friendly conversational interface that offered personalized insights and support to individuals dealing with epilepsy.
+
 
 ## [Calculating BMI](https://github.com/ElodynPixel/Calculating-BMI)
 
