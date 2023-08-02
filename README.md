@@ -3,7 +3,7 @@ An overview of all projects I created.
 ********************************************************************
 ## [DNA transcribe to RNA](https://github.com/ElodynPixel/DNA-transcribe-to-RNA)
 
-
+In this intriguing project, I developed a Python script to transcribe a given DNA sequence into its corresponding RNA transcript. Using Python, alongside Jupyter Notebook, I crafted a functional code that employed the 'maketrans' function to map DNA nucleotides to their respective RNA counterparts (A-U, T-A, C-G, G-C). The code efficiently processed a provided DNA sequence and produced the corresponding RNA transcript, enhancing our understanding of gene expression and transcriptional processes.
 
 ## [Nucleotides in DNA sequence](https://github.com/ElodynPixel/Nucleotides-in-DNA-sequences)
 
