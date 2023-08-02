@@ -7,7 +7,7 @@ In this intriguing project, I developed a Python script to transcribe a given DN
 
 ## [Nucleotides in DNA sequence](https://github.com/ElodynPixel/Nucleotides-in-DNA-sequences)
 
-
+In this informative project, I designed a Python script to analyze the frequency of nucleotides in a given DNA sample. By leveraging Python in a Jupyter Notebook, I developed a user-friendly interface that allowed users to input their DNA sequences. The script then efficiently counted the occurrences of each nucleotide (A, T, C, and G) and computed the GC ratio for the sequence. This analysis provided valuable insights into the genetic composition of the DNA sample, offering researchers a powerful tool for genetic research and data-driven analysis.
 
 ## [Smart Health CHatbot Chronic Kidney Disease ](https://github.com/ElodynPixel/SmartHealthChatBot-Chronic_Kidney_Disease)
 
