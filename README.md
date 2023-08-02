@@ -7,7 +7,7 @@ In this intriguing project, I developed a Python script to transcribe a given DN
 
 ## [Nucleotides in DNA sequence](https://github.com/ElodynPixel/Nucleotides-in-DNA-sequences)
 
-Using python the number of nucleotides can be counted and the base pair ratio can be calculated. This script can give information which can potentially be used to detect and diagnose mutations in a given DNA sequence.
+
 
 ## [Smart Health CHatbot Chronic Kidney Disease ](https://github.com/ElodynPixel/SmartHealthChatBot-Chronic_Kidney_Disease)
 
